@@ -1,0 +1,16 @@
+.logo{
+    height: 60px;
+    width: 160px;
+}
+
+.navBar-container{
+    background-color:rgb(165, 165, 231);
+    opacity: 0.65;
+}
+
+.item-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space space-evenly;
+}
+

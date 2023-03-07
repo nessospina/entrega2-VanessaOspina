@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "category": "Clasicas",
+        "name": "Chocolate chips",
+        "imgUrl": "https://picsum.photos/200",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 4,
+        "price": 1450
+    },
+    {
+        "id": 2,
+        "category": "Clasicas",
+        "name": "Lemon pie",
+        "img": "https://picsum.photos/200",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 6,
+        "price": 1450
+    },
+    {
+        "id": 3,
+        "category": "Clasicas",
+        "name": "Marble",
+        "img": "https://picsum.photos/200",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 4,
+        "price": 1550
+    },
+    {
+        "id": 4,
+        "category": "Clasicas",
+        "name": "Red velvet",
+        "img": "https://picsum.photos/200",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 4,
+        "price": 1550
+    },
+    {
+        "id": 6,
+        "category": "Especiales",
+        "name": "Cinamon roll",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 2,
+        "price": 1700
+    },
+    {
+        "id": 7,
+        "category": "Especiales",
+        "name": "cookies M&M",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 4,
+        "price": 1700
+    },
+    {
+        "id": 8,
+        "category": "Especiales",
+        "name": "Vanilla sprinkle",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 8,
+        "price": 1350
+    },    
+    {
+        "id": 9,
+        "category": "Especiales",
+        "name": "Tiramisu",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 4,
+        "price": 1800
+    },
+    {
+        "id": 10,
+        "category": "Especiales",
+        "name": "carrot cake cookie",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 8,
+        "price": 1700
+    },
+    {
+        "id": 11,
+        "category": "Rellenas",
+        "name": "S'mores",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 3,
+        "price": 1800
+    },
+    {
+        "id": 12,
+        "category": "Rellenas",
+        "name": "Peanut butter & chocolate",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 8,
+        "price": 1350
+    },
+    {
+        "id": 13,
+        "category": "Rellenas",
+        "name": "Oreno & Dulce de leche cookies",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 2,
+        "price": 2200
+    },
+    {
+        "id": 14,
+        "category": "Veganas",
+        "name": "Cookie de Avena y miel",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 8,
+        "price": 1400
+    },
+    {
+        "id": 15,
+        "category": "Veganas",
+        "name": "Matcha & chocolate chips",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 8,
+        "price": 1700
+    },
+    {
+        "id": 16,
+        "category": "Veganas",
+        "name": "Orange & rose petal",
+        "description" : "jdjgvhgjfdhgfhjkjskfhjkhkjfhjkhfjkkf",
+        "stock": 8,
+        "price": 1400
+    }
+]
